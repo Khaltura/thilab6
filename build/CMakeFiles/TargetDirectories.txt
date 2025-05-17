@@ -1,0 +1,3 @@
+C:/Programming/thilab4-master/build/CMakeFiles/lab4.dir
+C:/Programming/thilab4-master/build/CMakeFiles/edit_cache.dir
+C:/Programming/thilab4-master/build/CMakeFiles/rebuild_cache.dir

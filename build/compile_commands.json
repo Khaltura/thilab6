@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Programming/thilab4-master/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\lab4.dir\\main.cpp.obj -c C:\\Programming\\thilab4-master\\main.cpp",
+  "file": "C:\\Programming\\thilab4-master\\main.cpp",
+  "output": "CMakeFiles\\lab4.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Programming/thilab4-master/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\lab4.dir\\console_ui.cpp.obj -c C:\\Programming\\thilab4-master\\console_ui.cpp",
+  "file": "C:\\Programming\\thilab4-master\\console_ui.cpp",
+  "output": "CMakeFiles\\lab4.dir\\console_ui.cpp.obj"
+},
+{
+  "directory": "C:/Programming/thilab4-master/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\lab4.dir\\file_logger.cpp.obj -c C:\\Programming\\thilab4-master\\file_logger.cpp",
+  "file": "C:\\Programming\\thilab4-master\\file_logger.cpp",
+  "output": "CMakeFiles\\lab4.dir\\file_logger.cpp.obj"
+},
+{
+  "directory": "C:/Programming/thilab4-master/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\lab4.dir\\flower_factory.cpp.obj -c C:\\Programming\\thilab4-master\\flower_factory.cpp",
+  "file": "C:\\Programming\\thilab4-master\\flower_factory.cpp",
+  "output": "CMakeFiles\\lab4.dir\\flower_factory.cpp.obj"
+},
+{
+  "directory": "C:/Programming/thilab4-master/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\lab4.dir\\flower_repository.cpp.obj -c C:\\Programming\\thilab4-master\\flower_repository.cpp",
+  "file": "C:\\Programming\\thilab4-master\\flower_repository.cpp",
+  "output": "CMakeFiles\\lab4.dir\\flower_repository.cpp.obj"
+},
+{
+  "directory": "C:/Programming/thilab4-master/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\lab4.dir\\flower_service.cpp.obj -c C:\\Programming\\thilab4-master\\flower_service.cpp",
+  "file": "C:\\Programming\\thilab4-master\\flower_service.cpp",
+  "output": "CMakeFiles\\lab4.dir\\flower_service.cpp.obj"
+},
+{
+  "directory": "C:/Programming/thilab4-master/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\lab4.dir\\flower.cpp.obj -c C:\\Programming\\thilab4-master\\flower.cpp",
+  "file": "C:\\Programming\\thilab4-master\\flower.cpp",
+  "output": "CMakeFiles\\lab4.dir\\flower.cpp.obj"
+}
+]
